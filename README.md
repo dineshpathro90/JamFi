@@ -85,4 +85,4 @@ sudo python3 wifi_jammer.py
 
 ## Author
 
-[mrdineshpathro](https://github.com/mrdineshpathro)
+[mrdineshpathro](https://github.com/dineshpathro90)
